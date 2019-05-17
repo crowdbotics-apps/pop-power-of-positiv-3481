@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT pop_power_of_positiv_3481.wsgi:application
